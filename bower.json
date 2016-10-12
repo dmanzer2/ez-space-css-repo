@@ -1,6 +1,6 @@
 {
   "name": "ez-space",
-  "homepage": "https://github.com/dmanzer2/ez-space",
+  "homepage": "git://github.com/dmanzer2/ez-space.git",
   "authors": [
     "David Manzer <dmanzer2@gmail.com>"
   ],
