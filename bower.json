@@ -4,8 +4,8 @@
   "authors": [
     "David Manzer <dmanzer2@gmail.com>"
   ],
-  "description": "spacing utility for quick spacing mods. Ideal for Boostrap",
-  "main": "",
+  "description": "spacing utility for quick spacing mods. Ideal for Boostrap media queries",
+  "main": "css/",
   "keywords": [
     "css",
     "sass",
