@@ -6,23 +6,31 @@ Simple way to add spacing quickly and easily using a set of classes. Ideal for u
 
 This modular based css class system to be used in conjunction with any html structure. Works well if you understand the bootstrap naming conventions. For instance, xs = extra small, s = small, m = medium, l = large. Built with Bootstrap's native media queries in mind.
 
-**Media Queries:**
+#### Media Queries:
 
 xs = extra small
+
 s = small
+
 m = medium
+
 l = large
 
-**Box Model:**
+#### Box Model:
 
 p = padding
+
 m = margin
+
 t = top
+
 l = left
+
 b = bottom
+
 r = right
 
-**Sizes in pixels:**
+#### Sizes in pixels:
 
 5px - 100px sizing
 
