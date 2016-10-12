@@ -8,17 +8,26 @@ This modular based css class system to be used in conjunction with any html stru
 
 **Media Queries:**
 xs = extra small
+
 s = small
+
 m = medium
+
 l = large
 
 **Box Model:**
 p = padding
+
 m = margin
+
 t = top
+
 l = left
+
 b = bottom
+
 r = right
+
 
 **Sizes in pixels:**
 5px - 100px sizing
