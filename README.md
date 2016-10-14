@@ -38,7 +38,9 @@ r = right
 
 Apply the set class to your html to quickly add additiona spacing. Classes are as follows:
 
-**Example: xs-ml-10 = extra small margin of 10px applied to the left**
+**Example: .xs-ml-10 = margin of 10px applied to the left of any element on a mobile device**
+
+**Example: .sm-mr-20 = margin of 20px applied to the right of any element on a tablet device**
 
 ### install with Bower
 
