@@ -1,4 +1,4 @@
-[![Bower version](https://badge.fury.io/bo/badges.svg)](http://badge.fury.io/bo/badges)
+[![Bower version](https://badge.fury.io/bo/ez-space.svg)](https://badge.fury.io/bo/ez-space)
 
 # ez-space 1.0.0
 
