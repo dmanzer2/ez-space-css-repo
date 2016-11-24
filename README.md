@@ -36,7 +36,7 @@ r = right
 
 ### The basics
 
-Apply the set class to your html to quickly add additiona spacing. Classes are as follows:
+Apply these classes to your html to quickly add additional margin or padding space. Classes are as follows:
 
 **Example: .xs-ml-10 = margin of 10px applied to the left of any element on a mobile device**
 
