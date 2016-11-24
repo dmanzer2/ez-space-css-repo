@@ -1,4 +1,4 @@
-<img src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30"> [![Bower version](https://badge.fury.io/bo/badges.svg)](http://badge.fury.io/bo/badges)
+[![Bower version](https://badge.fury.io/bo/badges.svg)](http://badge.fury.io/bo/badges)
 
 
 # ez-space 1.0.0
