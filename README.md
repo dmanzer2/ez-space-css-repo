@@ -1,6 +1,5 @@
 [![Bower version](https://badge.fury.io/bo/badges.svg)](http://badge.fury.io/bo/badges)
 
-
 # ez-space 1.0.0
 
 Simple way to add spacing quickly and easily using a set of classes. Ideal for use with Bootstrap 3.
