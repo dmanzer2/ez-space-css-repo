@@ -50,6 +50,8 @@ Apply these classes to your html to quickly add additional margin or padding spa
 $ bower install ez-space-css-repo
 ```
 
+![Visit ezspacecss](http://ezspacecss.com)
+
 ![Image of bower logo](https://bower.io/img/bower-logo.svg)
 
 
