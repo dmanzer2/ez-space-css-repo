@@ -1,8 +1,8 @@
 [![Bower version](https://badge.fury.io/bo/ez-space.svg)](https://badge.fury.io/bo/ez-space)
 
-# ez-space 1.0.0
+# ezspacecss 1.1.0
 
-Simple way to add spacing quickly and easily using a set of classes. Ideal for use with Bootstrap 3.
+Bootstrap utility classes for quickly adding padding and margin spacing. Ideal for Boostrap 3 media queries
 
 ### Conventions
 
@@ -47,7 +47,7 @@ Apply these classes to your html to quickly add additional margin or padding spa
 ### install with Bower
 
 ```
-$ bower install ez-space
+$ bower install ez-space-css-repo
 ```
 
 ![Image of bower logo](https://bower.io/img/bower-logo.svg)
