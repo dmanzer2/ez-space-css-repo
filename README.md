@@ -1,4 +1,4 @@
-[![Bower version](https://badge.fury.io/bo/ez-space.svg)](https://badge.fury.io/bo/ez-space)
+[![Bower version](https://badge.fury.io/bo/ez-space.svg)](https://badge.fury.io/bo/ez-space) <img src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30">
 
 http://ezspacecss.com
 
@@ -51,8 +51,5 @@ Apply these classes to your html to quickly add additional margin or padding spa
 ```
 $ bower install ez-space-css-repo
 ```
-
-![Image of bower logo](https://bower.io/img/bower-logo.svg)
-
 
 *Created by David Manzer 2016*
