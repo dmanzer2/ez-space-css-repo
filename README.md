@@ -2,7 +2,7 @@
 
 http://ezspacecss.com
 
-# ezspacecss 1.1.0 <img src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30">
+# ezspacecss 1.2.0 <img src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30">
 
 Bootstrap utility classes for quickly adding padding and margin spacing. Ideal for Boostrap 3 media queries
 
