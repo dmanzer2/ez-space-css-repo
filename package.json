@@ -1,0 +1,31 @@
+{
+  "name": "ez-space-css-repo",
+  "version": "1.0.0",
+  "description": "A bootstrap 3 spacing utility package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmanzer2/ez-space-css-repo.git"
+  },
+  "keywords": [
+    "ezspacecss",
+    "bootstrap",
+    "utility",
+    "CSS",
+    "package",
+    "SCSS",
+    "Package"
+  ],
+  "author": "David Manzer",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/dmanzer2/ez-space-css-repo/issues"
+  },
+  "homepage": "https://github.com/dmanzer2/ez-space-css-repo#readme",
+  "dependencies": {
+    "ez-space-css-repo": "file:testpackage/ez-space-css-repo-1.0.0.tgz"
+  }
+}
