@@ -2,7 +2,7 @@ http://ezspacecss.com
 
 # ezspacecss 1.2.0
 
-Bootstrap utility classes for quickly adding padding and margin spacing. Ideal for Boostrap 3 media queries
+Bootstrap utility classes for quickly adding padding and margin spacing. Ideal for Bootstrap 3 media queries
 
 ### Conventions
 
@@ -32,7 +32,7 @@ b = bottom
 
 r = right
 
-#### Sizes in pixels using incraments of 5:
+#### Sizes in pixels using increments of 5:
 
 5px - 100px sizing
 
